@@ -3,6 +3,17 @@ ES6 Basics Quick Tutorial
 
 Close this [project](https://github.com/embengineering/es6-tutorial.git) and use the step-by-step tutorial below to get familiarized with ES6 (also known as ECMAScript, ECMAScript 2015 or ES2015).
 
+In this tutorial we are going to cover the following features:
+1. `Let` Variable Declaration
+2. Object Destructuring
+3. Arrow Functions
+4. Template Strings
+5. Modules
+6. Classes
+7. Promises
+
+**For an extended list of ES6 features such as `const` variable definition, spread operator, among others, please go  [here](http://es6-features.org/).**
+
 ---
 # Babel (Already Covered in Initial Project)
 
@@ -495,6 +506,4 @@ ES6 added native support for **Promises** replacing callback functions as the pr
 5. Build using `npm run webpack`, open your browser at http://localhost:8080/rateFinder.html.
 
 ---
-**Note: Refer [here](http://es6-features.org/) for more ES6 features.**
-
 *Thanks http://ccoenraets.github.io/es6-tutorial/ecmascript6-setup-babel.html for the original tutorial*
