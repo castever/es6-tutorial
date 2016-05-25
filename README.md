@@ -4,6 +4,7 @@ ES6 Basics Quick Tutorial
 Clone this [project](https://github.com/embengineering/es6-tutorial.git) and use the step-by-step tutorial below to get familiarized with ES6 (also known as ECMAScript, ECMAScript 2015 or ES2015).
 
 In this tutorial we are going to cover the following features:
+
 1. `Let` Variable Declaration
 2. Object Destructuring
 3. Arrow Functions
