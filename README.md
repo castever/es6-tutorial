@@ -1,7 +1,7 @@
-ES6 Quick Tutorial
-===================
+ES6 Basics Quick Tutorial
+=========================
 
-Follow the [step-by-step tutorial](#TDB) to get familiarized with ES6 (also known as ECMAScript, ECMAScript 2015 or ES2015).
+Close the [initial project](https://github.com/embengineering/es6-tutorial.git) and use the step-by-step tutorial below to get familiarized with ES6 (also known as ECMAScript, ECMAScript 2015 or ES2015).
 
 ---
 # Babel
